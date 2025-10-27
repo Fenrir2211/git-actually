@@ -6,7 +6,8 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            
+            GreetWhite();
+            GreetBlack();
         }
 
         private static void GreetWhite()
