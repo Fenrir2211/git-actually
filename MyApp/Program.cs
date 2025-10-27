@@ -6,7 +6,12 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+        }
+        
+        private static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
         }
     }
 }
