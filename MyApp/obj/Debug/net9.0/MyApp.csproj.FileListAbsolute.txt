@@ -1,0 +1,14 @@
+D:\git-actually\helloapp-black\MyApp\bin\Debug\net9.0\MyApp.exe
+D:\git-actually\helloapp-black\MyApp\bin\Debug\net9.0\MyApp.deps.json
+D:\git-actually\helloapp-black\MyApp\bin\Debug\net9.0\MyApp.runtimeconfig.json
+D:\git-actually\helloapp-black\MyApp\bin\Debug\net9.0\MyApp.dll
+D:\git-actually\helloapp-black\MyApp\bin\Debug\net9.0\MyApp.pdb
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.dll
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\refint\MyApp.dll
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.pdb
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+D:\git-actually\helloapp-black\MyApp\obj\Debug\net9.0\ref\MyApp.dll
